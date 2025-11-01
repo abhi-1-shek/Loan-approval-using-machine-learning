@@ -10,6 +10,7 @@ Age
 Marital status
 Gender
 Other factors like employment history and debt-to-income ratio
+
 Process:
 
 Data collection and pre-processing: Raw data is collected and cleaned to make it suitable for machine learning algorithms.
